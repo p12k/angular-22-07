@@ -1,0 +1,65 @@
+.jsp {
+    width: 50%;
+    padding: 10px;
+    margin: none;
+    box-sizing: border-box;
+    background-color:white;
+    }
+  
+.form
+{
+ text-align: center;
+  border:71px white;
+  border-radius: 0;
+  width:600px;
+  height: 400px;
+padding: 25px;
+background-color: lightgoldenrodyellow;
+margin-left: 50px;
+margin-bottom: 100px;
+
+}
+body{
+    
+    background-image: url(./../assets/images/oyo1.jpg);
+}
+#drop{
+
+    width: 49%;
+    padding: 10px;
+    margin-left: 60px;
+    box-sizing: border-box;
+    background-color:white;
+
+}
+
+
+
+
+
+.d-block w-100{
+
+    height: 700px;
+      
+  }
+  .carousel-item
+  {
+    height:450px;
+  }
+  
+  
+  .footer {
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     height: 20%;
+     width: 100%;
+     background-color: grey;
+     color: white;
+     text-align: center;
+  }
+  p{
+  
+  
+      font-style: italic;
+  }
